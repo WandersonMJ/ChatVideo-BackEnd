@@ -6,5 +6,5 @@
   "routes": [
     {
       "dest": "index.js"
-    }
+    },
 }
